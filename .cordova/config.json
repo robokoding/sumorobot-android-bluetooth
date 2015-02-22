@@ -1,0 +1,9 @@
+{
+    "lib": {
+        "www": {
+            "id": "com.robokoding.sumodorid",
+            "version": "0.0.1",
+            "uri": ""
+        }
+    }
+}
